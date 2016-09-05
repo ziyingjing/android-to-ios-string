@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_ar_ab" translatable="false">عربي(العربية)</string>
+    <string name="lan_ar_sa" translatable="false">العربية السعودية(العربية)</string>
+    <string name="lan_bg_bg" translatable="false">български(български)</string>
+    <string name="lan_cs_cz" translatable="false">český(český)</string>
+    <string name="lan_da_dk" translatable="false">Danmark(Dansk)</string>
+    <string name="lan_de_at" translatable="false">Österreich(Deutsch)</string>
+    <string name="lan_de_ch" translatable="false">Schweiz(Deutsch)</string>
+    <string name="lan_de_de" translatable="false">Deutschland(Deutsch)</string>
+    <string name="lan_en_au" translatable="false">Australia(English)</string>
+    <string name="lan_en_ca" translatable="false">Canada(English)</string>
+    <string name="lan_en_mm" translatable="false">မြန်မာ(မြန်မာ)</string>
+    <string name="lan_en_my" translatable="false">Malaysia(English)</string>
+    <string name="lan_en_sg" translatable="false">Singapore(English)</string>
+    <string name="lan_en_gb" translatable="false">United Kingdom(English)</string>
+    <string name="lan_en_us" translatable="false">USA(English)</string>
+    <string name="lan_es_es" translatable="false">España(Español)</string>
+    <string name="lan_es_lm" translatable="false">America latina(Español)</string>
+    <string name="lan_es_mx" translatable="false">México(Español)</string>
+    <string name="lan_fr_ch" translatable="false">Suisse(Français)</string>
+    <string name="lan_fr_fr" translatable="false">France(Français)</string>
+    <string name="lan_en_in" translatable="false">India(English)</string>
+    <string name="lan_ta_in" translatable="false">India(தமிழ்)</string>
+    <string name="lan_hi_in" translatable="false">India(हिंदी)</string>
+    <string name="lan_hr_hr" translatable="false">Hrvatska(Hrvatski)</string>
+    <string name="lan_hu_hu" translatable="false">Magyarország(magyar)</string>
+    <string name="lan_id_id" translatable="false">Indonesia(Bahasa Indonesia)</string>
+    <string name="lan_it_it" translatable="false">Italia(Italiano)</string>
+    <string name="lan_ja_jp" translatable="false">日本(日本の)</string>
+    <string name="lan_nl_nl" translatable="false">Nederland(Nederlands)</string>
+    <string name="lan_no_no" translatable="false">Norge(Norsk språk)</string>
+    <string name="lan_pl_pl" translatable="false">Polska(Polski)</string>
+    <string name="lan_ro_ro" translatable="false">România(Românesc)</string>
+    <string name="lan_ru_ru" translatable="false">Россия(Pусский)</string>
+    <string name="lan_ru_ua" translatable="false">Україна(Український)</string>
+    <string name="lan_sk_sk" translatable="false">Slovensko(Slovenský jazyk)</string>
+    <string name="lan_sl_si" translatable="false">Slovenija(Slovenski)</string>
+    <string name="lan_sr_rs" translatable="false">Србија(Srpski језик)</string>
+    <string name="lan_sv_se" translatable="false">Sverige(Svenska)</string>
+    <string name="lan_th_th" translatable="false">ประเทศไทย(ไทย)</string>
+    <string name="lan_tr_tr" translatable="false">Türkiye(Türk)</string>
+    <string name="lan_vi_vn" translatable="false">Việt Nam(Tiếng Việt)</string>
+    <string name="lan_zh_cn" translatable="false">中国(简体中文)</string>
+    <string name="lan_zh_hk" translatable="false">香港(繁體中文)</string>
+    <string name="lan_zh_tw" translatable="false">台灣(繁體中文)</string>
+</resources>
